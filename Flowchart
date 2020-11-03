@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T15:42:24.614Z" agent="5.0 (Macintosh)" version="13.8.8" etag="VfxWpT-hSwhZRiU42WLz" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-03T16:00:25.163Z" agent="5.0 (Macintosh)" etag="ra8IweDqkyo2umBcrwYR" version="13.8.8" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1621" dy="2263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-66" y="-130" width="820" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-1" target="UCHTZhKF7XmBLC3MIl8N-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;START&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="337.5" y="-80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-2" target="UCHTZhKF7XmBLC3MIl8N-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-2" target="UCHTZhKF7XmBLC3MIl8N-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Presence of vehicle&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="30" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-3" target="UCHTZhKF7XmBLC3MIl8N-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-3" target="UCHTZhKF7XmBLC3MIl8N-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Night Time &lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="140" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-4" target="UCHTZhKF7XmBLC3MIl8N-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Day Time&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="140" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-10" target="UCHTZhKF7XmBLC3MIl8N-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-10" value="IR snesor will respond" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="260" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-11" target="UCHTZhKF7XmBLC3MIl8N-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-11" value="Respective LED lamp will glow at high intensity" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-13" value="Node MCU checks the status of IR sensor and LDR" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="580" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-14" target="UCHTZhKF7XmBLC3MIl8N-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-14" value="Using IOT, BLYNK app we can control the steeet lights" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="660" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-15" target="UCHTZhKF7XmBLC3MIl8N-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-15" value="Wait for vehicle and LED Lamp will remain at low intensity" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="276.5" y="285" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.337;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-20" target="UCHTZhKF7XmBLC3MIl8N-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-20" value="Node MCU will show 0 state of IR sensor at serial monitor" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="274" y="470" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-22" target="UCHTZhKF7XmBLC3MIl8N-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-22" value="LED lamp will be in OFF state" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="292.5" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-23" target="UCHTZhKF7XmBLC3MIl8N-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-23" value="Node MCU will show 0 state of IR sensor and &#39;Day&#39; at serial monitor" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="450" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-26" value="" style="endArrow=classic;html=1;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UCHTZhKF7XmBLC3MIl8N-13" target="UCHTZhKF7XmBLC3MIl8N-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="830" as="sourcePoint" />
+            <mxPoint x="210" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-29" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="690" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHTZhKF7XmBLC3MIl8N-31" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Flow chart&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="-90" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
