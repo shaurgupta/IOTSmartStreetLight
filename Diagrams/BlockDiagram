@@ -1,1 +1,57 @@
-
+<mxfile host="app.diagrams.net" modified="2020-11-03T15:41:15.935Z" agent="5.0 (Macintosh)" etag="TxV7S7KEMuf3V5JHKzz8" version="13.8.8" type="github">
+  <diagram id="zHrIuKRthqW6QSZQrsz5" name="Page-1">
+    <mxGraphModel dx="1652" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="-10" width="490" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsIckuIsTQKHRYBL9Gn--4" target="WsIckuIsTQKHRYBL9Gn--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--4" value="&lt;b&gt;LDR SENSOR&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WsIckuIsTQKHRYBL9Gn--5" target="WsIckuIsTQKHRYBL9Gn--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--5" value="&lt;div&gt;&lt;b&gt;ARDUINO NODE MCU&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(ESP8266)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="110" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--6" value="&lt;b&gt;IR SENSOR&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--7" value="&lt;div&gt;&lt;b&gt;POWER LED &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CIRCUIT&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--8" value="&lt;div&gt;&lt;b&gt;IOT &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(BYLNK MOBILE APPP)&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="WsIckuIsTQKHRYBL9Gn--5" target="WsIckuIsTQKHRYBL9Gn--7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="280" as="sourcePoint" />
+            <mxPoint x="-100" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-160" y="260" />
+              <mxPoint x="-260" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="1" source="WsIckuIsTQKHRYBL9Gn--5" target="WsIckuIsTQKHRYBL9Gn--8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="280" as="sourcePoint" />
+            <mxPoint x="-30" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-160" y="260" />
+              <mxPoint x="-60" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WsIckuIsTQKHRYBL9Gn--17" value="&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;span style=&quot;font-size: 10.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot; lang=&quot;EN-US&quot;&gt;System architecture for IOT based smart street&lt;br&gt;lighting system.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="10" width="170" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
